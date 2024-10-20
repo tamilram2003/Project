@@ -3,4 +3,5 @@ gunicorn
 pandas
 numpy
 pickle4
+scikit-learn
 
